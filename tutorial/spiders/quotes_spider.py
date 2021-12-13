@@ -3,12 +3,22 @@ import scrapy
 
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
-    start_urls = [
-        'https://www.boliga.dk/salg/resultater?sort=omregnings_dato-d&kode=3&fraPostnr=&tilPostnr=&minsaledate=2004&maxsaledate=today&kom=461&type=Villa&gade=&iPostnr=5000&searchTab=1'
-    ]
+    #start_requests returns (via yield) a request object
+    def start_requests(self):
+        urls = [
+            'https://www.imdb.com/chart/top/'
+        ]
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        page = response.url.split("/")[-2]
-        filename = f'{page}.html'
-        with open(filename, 'wb') as f:
-            f.write(response.body)
+
+
+        filename = 'top-250.txt'
+        with open(filename, 'w') as f:
+            tablerows = response.css("#main > div > span > div > div > div.lister > table > tbody > tr") #has 250 rows
+            for index in range(1,len(tablerows)+1):
+                title = response.css(f"#main > div > span > div > div > div.lister > table > tbody > tr:nth-child({index}) > td.titleColumn > a::text").get()
+                f.write(f"Movie number {index} on the IMDB top 250 list is {title}\n")
+
+        self.log(f'Saved file {filename}')

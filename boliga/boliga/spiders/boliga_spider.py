@@ -11,18 +11,19 @@ class BoligaSpider(scrapy.Spider):
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
+
     #when start_request is called, scrapy.request returns a response object that is parsed to parse
     def parse(self, response):
-        #everything below is done for each response, and due to the yield keyword
-        #its done before the next request is sent
 
         filename = 'boliga.txt'
         with open(filename, 'w') as f:
-            table=response.css(f"app-sold-list-table") #has 50 rows
-            vals = table.css("span.text-nowrap::text").get() #has 250 elements
-            for index in range(len(vals)):
-                if index%5==0:
-                    f.write(f"{vals[index]},{vals[index-2]}\n")
 
-        time.sleep(1)
+            for i in range(1,50):
+                row = response.css(f"table > tbody > tr:nth-child({i}) > td:nth-child(2) > span::text").get()
+                if row is not None:
+                    row = row[:-4]
+                f.write(f"{row}\n")
+
         self.log(f'Saved file {filename}')
+
+
