@@ -4,8 +4,8 @@ import scrapy
 class BoligaSpider(scrapy.Spider):
     name = "boliga"
     start_urls = []
-    for i in range(1,261):
-        start_urls.append(f"https://www.boliga.dk/salg/resultater?sort=omregnings_dato-d&kode=3&fraPostnr=&tilPostnr=&minsaledate=2004&maxsaledate=today&kom=&type=Villa&gade=&searchTab=1&page={i}")
+    for i in range(1,26280):
+        start_urls.append(f"https://www.boliga.dk/salg/resultater?searchTab=1&page={i}&sort=date-d&salesDateMin=2004&saleType=1&fbclid=IwAR0lHCc_ewr2lQj4WdWZIB7p92G1FE0ql1pevEj0j5YVeOUXxRkU7_V86po")
 
 
 
@@ -17,7 +17,7 @@ class BoligaSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        filename = 'boliga.txt'
+        filename = 'historiske_salg.txt'
         with open(filename, 'a') as f:
 
             for i in range(1, 50):
@@ -26,7 +26,6 @@ class BoligaSpider(scrapy.Spider):
                     f"table > tbody > tr:nth-child({i}) > td:nth-child(2) > span::text").get()
                 if price is not None:
                     price = price[:-4]
-
 
                 #sold date
                 sold_date=response.css(f"table > tbody > tr:nth-child({i}) > td:nth-child(3) > div > span:nth-child(1)::text").get()
