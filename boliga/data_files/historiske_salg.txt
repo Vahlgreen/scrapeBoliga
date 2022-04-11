@@ -1,0 +1,392 @@
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 
+2.695.000;31-12-2021; 130 m² ; 20.731 kr/m²; 1966 ; Lundebakken 2; 5250 Odense SV 
+850.000;31-12-2021; 44 m² ; 19.318 kr/m²; 1982 ; Brinkevej 3C, 1; 3770 Allinge 
+1.450.000;31-12-2021; 142 m² ; 10.211 kr/m²; 1973 ; Grønnevang 258; 3250 Gilleleje 
+7.450.000;30-12-2021; 226 m² ; 32.965 kr/m²; 2007 ; Dyrehaven 12; 7080 Børkop 
+600.000;30-12-2021; 89 m² ; 6.742 kr/m²; 1968 ; Laksestien 10; 6880 Tarm 
+475.000;30-12-2021; 62 m² ; 7.661 kr/m²; 1967 ; Rygbjergvej 45; 7183 Randbøl 
+2.000.000;30-12-2021; 194 m² ; 10.309 kr/m²; 1910 ; Birkelundsvej 3; 8960 Randers SØ 
+920.000;30-12-2021; 64 m² ; 14.375 kr/m²; 1978 ; Lyngbygårdsvej 5; 9480 Løkken 
+2.400.000;29-12-2021; 104 m² ; 23.077 kr/m²; 1967 ; Tokkerupvej 22; 2730 Herlev 
+800.000;29-12-2021; 142 m² ; 5.634 kr/m²; 1865 ; Toftegårdsvej 9; 4690 Haslev 
+1.036.030;29-12-2021; 83 m² ; 12.482 kr/m²; 0 ; Uglevej 10; 5800 Nyborg 
+3.195.000;29-12-2021; 135 m² ; 23.667 kr/m²; 2008 ; Lergravsvej 13C; 3490 Kvistgård 
+875.000;29-12-2021; 121 m² ; 7.231 kr/m²; 1947 ; Nyborgvej 5; 5540 Ullerslev 
+808.333;29-12-2021; 67 m² ; 12.065 kr/m²; 1969 ; Bavnevejen 30; 3390 Hundested 
+4.100.000;29-12-2021; 130 m² ; 31.538 kr/m²; 1921 ; Borups Allé 249A, 1. tv; 2400 København NV 
+900.000;29-12-2021; 100 m² ; 9.000 kr/m²; 1964 ; Aale Bygade 19; 7160 Tørring 
+300.000;29-12-2021; 198 m² ; 1.515 kr/m²; 1885 ; Kvongvej 120; 6830 Nørre Nebel 
+450.000;29-12-2021; 30 m² ; 15.000 kr/m²; 1955 ; Drøsselbjergvej 48; 4200 Slagelse 
+1.500.000;29-12-2021; 185 m² ; 8.108 kr/m²; 1993 ; Lindevænget 9; 4873 Væggerløse 
+3.400.000;29-12-2021; 82 m² ; 41.463 kr/m²; 1927 ; Kjærstrupvej 2, 1; 2500 Valby 
+3.400.000;29-12-2021; 91 m² ; 30.088 kr/m²; 1927 ; Kjærstrupvej 2, st; 2500 Valby 
+2.450.000;29-12-2021; 88 m² ; 27.841 kr/m²; 2015 ; Århusgade 140, 5. tv; 2150 Nordhavn 
+575.000;28-12-2021; 170 m² ; 3.382 kr/m²; 1972 ; Favrdalen 24; 6100 Haderslev 
+3.780.000;28-12-2021; 235 m² ; 16.085 kr/m²; 1942 ; Hamborgvej 28; 7730 Hanstholm 
+1.050.000;28-12-2021; 92 m² ; 11.413 kr/m²; 1974 ; Illeris 4; 9640 Farsø 
+1.580.000;28-12-2021; 72 m² ; 21.944 kr/m²; 1960 ; Tornhøjvej 5; 3370 Melby 
+775.000;28-12-2021; 113 m² ; 6.858 kr/m²; 1936 ; Brædstrupvej 37; 7160 Tørring 
+861.000;28-12-2021; 168 m² ; 5.125 kr/m²; 1877 ; Odensevej 66; 5610 Assens 
+3.998.000;28-12-2021; 105 m² ; 38.076 kr/m²; 1967 ; Rødovrevej 315A, 3. 6; 2610 Rødovre 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 2. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 2. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, 1. th; 4760 Vordingborg 
+5.995.000;28-12-2021; 100 m² ; 59.950 kr/m²; 1912 ; Algade 111A, 1. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 74 m² ; 81.014 kr/m²; 1912 ; Algade 111A, 3. tv; 4760 Vordingborg 
+5.995.000;28-12-2021; 89 m² ; 67.360 kr/m²; 1912 ; Algade 111A, 3. th; 4760 Vordingborg 
+1.460.000;28-12-2021; 157 m² ; 9.299 kr/m²; 1975 ; Vongevej 35; 7160 Tørring 
+200.000;28-12-2021; 115 m² ; 1.739 kr/m²; 1945 ; Tuenvej 66; 9881 Bindslev 
+1.400.000;28-12-2021; 51 m² ; 27.451 kr/m²; 1959 ; Byagervej 137, 1. mf; 3460 Birkerød 
+700.000;28-12-2021; 110 m² ; 6.364 kr/m²; 1924 ; Olaf Ryes Vej 9; 6100 Haderslev 
+5.995.000;28-12-2021; 110 m² ; 54.500 kr/m²; 1912 ; Algade 111A, st; 4760 Vordingborg 
+1.697.500;28-12-2021; 116 m² ; 14.634 kr/m²; 2020 ; Teglbakken 14; 2990 Nivå 
+134.800;28-12-2021; 162 m² ; 832 kr/m²; 0 ; Højvangen 13; 9490 Pandrup 
+287.480;27-12-2021; 122 m² ; 2.356 kr/m²; 1700 ; Vestervej 3; 4983 Dannemare 
+3.900.000;27-12-2021; 93 m² ; 41.935 kr/m²; 1972 ; Lyngbyvej 32E, 10. tv; 2100 København Ø 
+205.015;27-12-2021; 112 m² ; 1.830 kr/m²; 2000 ; Spurvevej 14; 4200 Slagelse 
+3.949.000;27-12-2021; 153 m² ; 25.810 kr/m²; 1908 ; Halmtorvet 29A, 5. th; 1700 København V 
+10.984.500;27-12-2021; 206 m² ; 53.323 kr/m²; 1920 ; Strandlystvej 1; 4534 Hørve 
+1.387.500;27-12-2021; 134 m² ; 10.354 kr/m²; 1900 ; Trelde Næsvej 14; 7000 Fredericia 
+885.625;27-12-2021; 162 m² ; 5.467 kr/m²; 1981 ; Hyldevang 236; 7323 Give 

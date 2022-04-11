@@ -10,22 +10,28 @@ from selenium.common.exceptions import StaleElementReferenceException, NoSuchEle
 
 import pandas as pd
 
-kommuner = pd.read_csv("komuner_DK.csv",header = None,names=["kom"])
-kommuner["kom"] = kommuner["kom"].replace("Allerød","Alleroed")
+## Read and clean data
+kommuner = pd.read_csv("data_files/komuner_DK.csv", header = None, names=["kom"])
+kommuner["kom"] = kommuner["kom"].replace("Vesthimmerlands","Vesthimmerland")
+kommuner= kommuner.iloc[93:98]["kom"].reset_index(drop=True)
+kommuner = kommuner.to_frame()
+
+#append all starturls
 start_urls = []
 for index, row in kommuner.iterrows():
-    start_urls.append(f"https://www.boligsiden.dk/salgspris/solgt/alle/1?periode.from=1992-01-01&periode.to=2022-12-31&salgstype=auction&displaytab=mergedtab&by={str(row['kom']).lower()}")
+    start_urls.append(f"https://www.boligsiden.dk/salgspris/solgt/alle/1?periode.from=1992-01-01&periode.to=2022-12-31&salgstype=auction&displaytab=mergedtab&kommune={str(row['kom']).lower()}")
 
+#initiate browser
 driver_options = webdriver.ChromeOptions()
 driver_options.add_argument('headless')
 driver = webdriver.Chrome(ChromeDriverManager().install(),chrome_options=driver_options)
+#driver = webdriver.Chrome(ChromeDriverManager().install())
 
-#"https://www.boligsiden.dk/salgspris/solgt/alle/1?periode.from=1992-01-01&periode.to=2022-12-31&salgstype=auction&displaytab=mergedtab&by=odense"
-
+#scrape all urls
 for index,url in enumerate(start_urls):
     driver.get(url)
-    print(kommuner.iloc[index]["kom"])
-    next_button_selector = f"//*[@id='page-salesprice-result']/div/div/div[2]/div/div[2]/div[2]/a"
+    kommune = kommuner.iloc[index]["kom"]
+    print(f"{index}, {kommune}, {url}")
 
     decline_cookies_selector = "#onetrust-close-btn-container > button"
     if index == 0:
@@ -36,57 +42,60 @@ for index,url in enumerate(start_urls):
     selenium_response_text = driver.page_source
     new_selector = Selector(text=selenium_response_text)
 
-    sidetal = new_selector.css("#page-salesprice-result > div > div > div:nth-child(3) > div.pager.pager--list.pager--propertySale.pager--bottom > div > div.pagenumber > span:nth-child(2)::text").get()
-    sidetal = int(str(sidetal).split(" ")[-1])
-    #sidetal = 2
-    filename = "test.csv"
+    pagenum = new_selector.css("#page-salesprice-result > div > div > div:nth-child(3) > div.pager.pager--list.pager--propertySale.pager--bottom > div > div.pagenumber > span:nth-child(2)::text").get()
+    pagenum = int(str(pagenum).split(" ")[-1])
+
+    filename = "data_files/test.csv"
     with open(filename, 'a') as f:
-        for i in range(1,sidetal+1):
+        for i in range(1, pagenum):
             for j in range(1,31):
                 selenium_response_text = driver.page_source
                 page_selector = Selector(text=selenium_response_text)
                 street = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__info.ci__info--address > div.row-2.text-truncate > a::text").get()
-                #street = new_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child(27) > div.ci__info.ci__info--address > div.row-2.text-truncate > a::text").get()
                 city_and_zip = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__info.ci__info--address > div.row-3 > span::text").get()
+                sqm = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child(1) > td.area::text").get()
+
 
                 if city_and_zip is not None:
-                    zip = re.search("\d{4}",city_and_zip).group()
-                    city = city_and_zip.replace(zip,"")
-
+                    if re.search("\d{4}",city_and_zip) is not None:
+                        zip = re.search("\d{4}",city_and_zip).group()
+                    city = kommune
 
                 #Første række:Auktion eller Fri handel selector
-                auktion_bool = False
+                auction_bool = False
                 trade_bool = False
                 trade_price = 0
-                auktion_price = 0
+                auction_price = 0
                 trade_index = 1
-                #while not auktion_bool and not trade_bool:
                 while True:
                     try:
                         trade = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(1) > span::text").get()
 
-                        if not auktion_bool and trade == "Auktion":
-                            auktion_bool=True
-                            auktion_price = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(3)::text").get()
-                            auktion_date = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(2)::text").get()
+                        if not auction_bool and trade == "Auktion":
+                            auction_bool=True
+                            auction_price = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(3)::text").get()
+                            auction_date = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(2)::text").get()
 
                         if not trade_bool and trade == "Fri handel":
                             trade_bool = True
                             trade_price = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(3)::text").get()
                             trade_date = page_selector.css(f"#page-salesprice-result > div > div > div:nth-child(3) > div.row > div:nth-child({j}) > div.ci__kf.ci__kf--1 > table > tbody > tr:nth-child({trade_index}) > td:nth-child(2)::text").get()
 
-                        if (trade_bool and auktion_bool) or trade_index>10:
+                        if (trade_bool and auction_bool) or trade_index>10:
                             break
                         trade_index = trade_index + 1
                     except Exception:
                         print("exception occured")
                         break
 
-                if street is None or city_and_zip is None or city is None or zip is None or auktion_price is None or auktion_date is None or trade_price is None or trade_date is None:
+                if street is None or city_and_zip is None or city is None or zip is None or auction_price is None or auction_date is None or trade_price is None or trade_date is None:
                     continue
-                #print(f"række {j}: {street.strip()}, {city_and_zip.strip()}, {auktion_price},{auktion_date}, {trade_price},{trade_date}\n")
-                f.write(f"{street.strip()};{city.strip()};{zip.strip()};{auktion_price};{auktion_date};{trade_price};{trade_date}\n")
+                f.write(f"{street.strip()};{city.strip()};{zip.strip()};{auction_price};{auction_date};{trade_price};{trade_date};{sqm}\n")
 
+            if i == 1:
+                next_button_selector = f"//*[@id='page-salesprice-result']/div/div/div[2]/div/div[2]/div[2]/a"
+            else:
+                next_button_selector = "//*[@id='page-salesprice-result']/div/div/div[2]/div/div[2]/div[2]/a[2]"
             click_succes = False
             while not click_succes:
                 try:
@@ -95,5 +104,8 @@ for index,url in enumerate(start_urls):
                 except NoSuchElementException:
                     print("NoSuchElementException")
 
-                driver.get(url.replace(f"alle/{i}",f"alle/{i+1}"))
+            #print(f"{driver.current_url}, {i}")
+
+            #driver.get(url.replace(f"alle/{i}",f"alle/{i+1}"))
+
             time.sleep(1)

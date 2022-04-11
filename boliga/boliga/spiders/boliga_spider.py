@@ -1,19 +1,28 @@
 
 import scrapy
+import selenium
+import time
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
+import re
+import os
+from selenium.common.exceptions import StaleElementReferenceException
+
+##########################
+
+### THIS FILE WAS REPLACED, SEE INSTEAD scrape.py
+
+##########################
+
+
 
 class BoligaSpider(scrapy.Spider):
     name = "boliga"
     start_urls = []
+
     for i in range(1,26280):
         start_urls.append(f"https://www.boliga.dk/salg/resultater?searchTab=1&page={i}&sort=date-d&salesDateMin=2004&saleType=1&fbclid=IwAR0lHCc_ewr2lQj4WdWZIB7p92G1FE0ql1pevEj0j5YVeOUXxRkU7_V86po")
-
-
-
-
-    #['https://www.boliga.dk/salg/resultater?sort=omregnings_dato-d&kode=3&fraPostnr=&tilPostnr=&minsaledate=2004&maxsaledate=today&kom=&type=Villa&gade=&searchTab=1&page=1']
-    #,"https://www.boliga.dk/salg/resultater?sort=omregnings_dato-d&kode=3&fraPostnr=&tilPostnr=&minsaledate=2004&maxsaledate=today&kom=461&type=Villa&gade=&searchTab=1&page=2",
-    #   "https://www.boliga.dk/salg/resultater?sort=omregnings_dato-d&kode=3&fraPostnr=&tilPostnr=&minsaledate=2004&maxsaledate=today&kom=461&type=Villa&gade=&searchTab=1&page=3"]
-
 
     def parse(self, response):
 
